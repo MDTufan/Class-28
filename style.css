@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(64, 64, 185) !important;
+}
+
+.xxx{
+    background-color: aqua;
+    color: black !important;
+}
+
+.xx{
+    color: black;
+    font-weight: bold;
+}
+
+.xx-xx{
+    background-color: aquamarine;
+    border-radius: 8px;
+    box-shadow: 1px 8px 29px black;
+}
